@@ -1,8 +1,10 @@
 # Emily Feng's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some of my favorite things about CS 193 are...
+- getting to learn more about Github
+- spending time with other CS people
+- the fun (and not stressful) class atmosphere
+- and obviously, the student-led environment :)
 
 ### Markdown
 
